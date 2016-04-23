@@ -9,3 +9,4 @@ target/
 *.versionsBackup
 bin/
 .sftp-config.json
+out
